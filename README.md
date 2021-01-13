@@ -3,8 +3,8 @@
 # Sobre o Projeto
 Crud para cadastro de Nomes em Python utilizando o banco de Dados Sqlite
 
-## Telas
-![Login](https://github.com/MaiconFiuza/Python-crud-Sqlite/blob/main/imagem%20do%20programa.png)
+## Tela
+![principal](https://github.com/MaiconFiuza/Python-crud-Sqlite/blob/main/imagem.png)
 
 # Autor
 Maicon Barbosa Fiuza 
