@@ -4,7 +4,7 @@
 Crud para cadastro de Nomes em Python utilizando o banco de Dados Sqlite
 
 ## Tela
-![principal](https://github.com/MaiconFiuza/Python-Mysql-Cadastro-de-Alunos-/blob/main/cadastro%20aluno.png)
+![principal](https://github.com/MaiconFiuza/Python-crud-Sqlite/blob/main/imagem.png)
 
 # Autor
 Maicon Barbosa Fiuza 
